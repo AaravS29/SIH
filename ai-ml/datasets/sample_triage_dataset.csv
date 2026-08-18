@@ -1,0 +1,63 @@
+symptoms,age,duration,severity,urgency,specialty
+"headache, mild fatigue",29,Less than 1 day,2,LOW,General Medicine
+"sore throat, runny nose",34,1–3 days,3,LOW,General Medicine
+"mild rash on arm",22,1–3 days,2,LOW,Dermatology
+"itching, dry skin",41,4–7 days,3,LOW,Dermatology
+"mild joint pain after exercise",27,Less than 1 day,3,LOW,Orthopedics
+"tiredness, low appetite",50,4–7 days,3,LOW,General Medicine
+"occasional cough",19,1–3 days,2,LOW,General Medicine
+"mild acidity after meals",38,Less than 1 day,2,LOW,General Medicine
+"sneezing, mild congestion",25,1–3 days,3,LOW,General Medicine
+"small bruise on leg",8,Less than 1 day,2,LOW,General Medicine
+"dandruff and itching scalp",31,more than 1 week,3,LOW,Dermatology
+"mild lower back pain from sitting long hours",44,4–7 days,4,LOW,Orthopedics
+"fever, body ache",36,1–3 days,5,MEDIUM,General Medicine
+"stomach pain, nausea",28,1–3 days,5,MEDIUM,General Medicine
+"persistent cough",45,more than 1 week,5,MEDIUM,General Medicine
+"joint pain, swelling in knee",60,4–7 days,6,MEDIUM,Orthopedics
+"skin rash spreading with itching",33,4–7 days,5,MEDIUM,Dermatology
+"back pain radiating to leg",52,more than 1 week,6,MEDIUM,Orthopedics
+"fever, sore throat, mild body ache",21,1–3 days,5,MEDIUM,General Medicine
+"bone pain after minor fall",30,Less than 1 day,6,MEDIUM,Orthopedics
+"vomiting once, mild stomach cramps",26,Less than 1 day,4,MEDIUM,General Medicine
+"fracture suspected after fall, mild swelling",40,Less than 1 day,6,MEDIUM,Orthopedics
+"palpitations occasionally when climbing stairs",55,more than 1 week,6,MEDIUM,Cardiology / Emergency Care
+"wheezing during exercise",24,4–7 days,6,MEDIUM,Respiratory / Emergency Care
+"chest pain on exertion, mild",58,4–7 days,7,HIGH,Cardiology / Emergency Care
+"shortness of breath climbing stairs",61,1–3 days,7,HIGH,Respiratory / Emergency Care
+"persistent vomiting, unable to keep water down",30,Less than 1 day,7,HIGH,General Medicine
+"severe abdominal pain, sharp",42,Less than 1 day,8,HIGH,General Medicine
+"confusion, disoriented since morning",70,Less than 1 day,8,HIGH,Neurology / Emergency Care
+"weakness on one side of face",66,Less than 1 day,8,HIGH,Neurology / Emergency Care
+"fainting episode this morning, now conscious",48,Less than 1 day,7,HIGH,General Medicine
+"breathing difficulty when lying down",64,1–3 days,7,HIGH,Respiratory / Emergency Care
+"palpitations with chest discomfort",53,Less than 1 day,7,HIGH,Cardiology / Emergency Care
+"severe joint swelling, cannot bear weight",35,Less than 1 day,7,HIGH,Orthopedics
+"high fever with persistent vomiting",6,Less than 1 day,7,HIGH,General Medicine
+"severe chest pain radiating to left arm",62,Less than 1 day,10,EMERGENCY,Cardiology / Emergency Care
+"difficulty breathing, lips turning blue",70,Less than 1 day,10,EMERGENCY,Respiratory / Emergency Care
+"unconscious, not responding",45,Less than 1 day,10,EMERGENCY,Neurology / Emergency Care
+"loss of consciousness after fall",50,Less than 1 day,10,EMERGENCY,Neurology / Emergency Care
+"severe bleeding from leg wound",33,Less than 1 day,10,EMERGENCY,Orthopedics
+"stroke symptoms, slurred speech and weakness",68,Less than 1 day,10,EMERGENCY,Neurology / Emergency Care
+"seizure, ongoing convulsions",29,Less than 1 day,10,EMERGENCY,Neurology / Emergency Care
+"severe difficulty breathing, gasping",55,Less than 1 day,10,EMERGENCY,Respiratory / Emergency Care
+"chest pain, severe, sweating heavily",59,Less than 1 day,9,EMERGENCY,Cardiology / Emergency Care
+"child unconscious after high fever",4,Less than 1 day,10,EMERGENCY,Neurology / Emergency Care
+"mild headache, no other symptoms",23,Less than 1 day,1,LOW,General Medicine
+"slight fatigue after travel",37,Less than 1 day,2,LOW,General Medicine
+"minor cut on finger",15,Less than 1 day,1,LOW,General Medicine
+"mild sunburn on shoulders",26,1–3 days,2,LOW,Dermatology
+"occasional mild back stiffness",47,4–7 days,3,LOW,Orthopedics
+"fever with chills",32,1–3 days,5,MEDIUM,General Medicine
+"persistent itching rash on legs",29,more than 1 week,5,MEDIUM,Dermatology
+"stomach cramps, loose motions",40,1–3 days,5,MEDIUM,General Medicine
+"knee pain after sports injury",20,1–3 days,5,MEDIUM,Orthopedics
+"mild wheezing at night",34,more than 1 week,5,MEDIUM,Respiratory / Emergency Care
+"chest discomfort after heavy meal, mild",49,Less than 1 day,6,MEDIUM,Cardiology / Emergency Care
+"shortness of breath with mild exertion",57,4–7 days,7,HIGH,Respiratory / Emergency Care
+"confusion and slurred words for an hour",73,Less than 1 day,9,EMERGENCY,Neurology / Emergency Care
+"severe chest pain and shortness of breath",65,Less than 1 day,10,EMERGENCY,Cardiology / Emergency Care
+"fracture, bone visibly deformed after accident",28,Less than 1 day,8,HIGH,Orthopedics
+"persistent high fever for a week",12,more than 1 week,6,MEDIUM,General Medicine
+"severe abdominal pain with fainting",39,Less than 1 day,9,EMERGENCY,General Medicine

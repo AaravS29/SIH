@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: ai-triage-referral-router-api
+    runtime: node
+    rootDir: backend
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: CLIENT_URL
+        sync: false
+      - key: DATABASE_PATH
+        value: ./data/triage.db
+      - key: USE_ML_SERVICE
+        value: false
+      - key: ML_SERVICE_URL
+        value: http://localhost:8000
+      - key: ML_TIMEOUT_MS
+        value: 1500
